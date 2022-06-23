@@ -2,7 +2,6 @@
 - 👀 I’m interested in Crisps
 - 🌱 I’m currently learning C
 - 💞️ I’m looking to collaborate on Interesting Math Problems
-- 📫 How to reach me : crisperdong@gmail.com
 
 <!---
 Crisper-Dong/Crisper-Dong is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
